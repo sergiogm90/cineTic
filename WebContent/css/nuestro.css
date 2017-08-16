@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+#tituloEmpresa{
+	font-family: 'Leckerli One', cursive;
+	font-size: 4vw;
+}
+.margenContacto{
+	padding:2% 0 39% 0;
+
+}
+.margenRecibido{
+	padding-bottom:33%;
+}
+.margenCompra{
+	padding-bottom:20%;
+}
+.margenLogin{
+	padding-bottom:35%;
+}
+
+.margenRegistro{
+	padding-bottom:13%;
+}
+
+.rojo{
+	border: thin red solid;
+}
+.blanco{
+	color:white;
+}
+a:hover{
+	color:white
+}
